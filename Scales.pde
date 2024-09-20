@@ -1,4 +1,4 @@
-import java.lang.Math;
+
 void setup(){
 size(2000,2000);
 noFill();
